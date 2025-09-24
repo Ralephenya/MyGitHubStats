@@ -1,0 +1,6 @@
+@MyGitStats_HostAddress = http://localhost:5030
+
+GET {{MyGitStats_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
